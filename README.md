@@ -1,7 +1,6 @@
 # Predictive-Modeling
-This repository contains the Python demo implementation for the IEEE research project on Predictive Modeling, showcasing hands-on examples of classification, regression, and clustering techniques using standard datasets from scikit-learn.
 
-The project provides a comprehensive demonstration of predictive modeling workflows, performance visualization, and evaluation metrics — designed for academic research, presentations, and reproducible experimentation.
+The project provides a comprehensive demonstration of predictive modeling workflows, performance visualization, and evaluation metrics designed for academic research, presentations, and reproducible experimentation.
 
 📘 Table of Contents
 
