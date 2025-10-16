@@ -1,8 +1,3 @@
-# =============================================================================
-# IEEE Research Paper Demo: Predictive Modeling in Python
-# FIXED VERSION with Improved Plotting
-# =============================================================================
-
 # STEP 1: Environment Setup with Version Checking
 import sys
 import warnings
